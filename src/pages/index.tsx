@@ -18,6 +18,12 @@ const Home: NextPage = () => {
           </a>
         </Link>
       </div>
+      
+
+
+
+
+      <footer>Made for the PlanetScale X Hashnode Hackathon</footer>
     </div>
   )
 }
