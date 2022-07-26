@@ -28,7 +28,7 @@ For this project, I used:
 ### Important Links 🔗
 
 - **GitHub** - *[Omar8345/OnePass](https://github.com/Omar8345/OnePass)*
-- **Live Demo** - *[onepass-phi.vercel.app](https://onepass-phi.vercel.app/)*
+- **Live Demo** - *[onepass-phi.vercel.app](https://one-pass.vercel.app/)*
 
 ### Thanks for reading!
 
